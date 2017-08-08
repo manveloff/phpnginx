@@ -1,35 +1,31 @@
-# Docker image - docker-nginx_phpfpm-dev
+# Docker image with NGINX and PHP for WARP projects
 ---
-## Оглавление
+## Table of contents
 
-  - [Ссылки](#link1)
-  - [Введение](#link2)
-  - [Общее описание образа](#link3)
-  - [Заметки к релизам](#link100)
+  - [Links](#link1)
+  - [Description](#link2)
+  - [Release notes](#link100)
 
 ---
 
-## Ссылки <a id="link1"></a>
+## Links <a id="link1"></a>
 ```
 
-  > Адрес образа на github
-      https://github.com/4gekkman/docker-nginx_phpfpm-dev
+  > Address on GitHub
+      https://github.com/warpcomplex/phpnginx
 
-  > Адрес образа на docker hub
-      https://hub.docker.com/r/4gekkman/docker-nginx_phpfpm-dev/
+	> Address on Docker Hub
+      https://hub.docker.com/r/warpcomplex/phpnginx
 			
 ```
 ## Общее описание образа <a id="link2"></a>
 ```
-
-  ● ...
-
+This is docker image with NGINX and PHP for WARP projects.
+It's present on Docker Hub.
 
 ```
-## Заметки к релизам <a id="link100"></a>
+## Release notes <a id="link100"></a>
 ```
 
-  1.0.0
-    - Первый релиз.
 
 ```
